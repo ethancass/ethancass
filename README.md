@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ethancass
 - 👀 I’m interested in Cybersecurity
 - 🌱 I’m currently learning various SIEMs and their functionalities
-- 📫 You can reach me at hey@ethancassatt.com
+- 📫 You can reach me at hello@ethy.gg
 - 😄 Pronouns: he/him
 
 <!---
